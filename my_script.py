@@ -49,3 +49,4 @@ st.dataframe(data=df)
 st.bar_chart(data=df)
 st.area_chart(data=df)
 
+st.line_chart(tabvalue)
